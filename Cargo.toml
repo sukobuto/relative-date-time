@@ -1,7 +1,11 @@
 [package]
 name = "relative-date-time"
+description = "A simple command prints relative time."
 version = "0.1.0"
+authors = ["Kenta Suzuki <ken05216@gmail.com>"]
 edition = "2021"
+license = "MIT"
+repository = "https://github.com/sukobuto/relative-date-time"
 
 [dependencies]
 chrono = "0.4.38"
